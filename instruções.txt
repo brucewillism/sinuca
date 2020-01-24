@@ -1,0 +1,11 @@
+﻿Passo a passo como rodar o sistema
+
+1 rodar o script na base de dados sinuca.sql
+
+2 apos rodar o script ele criarar automaticamente o usuario admin e a senha 123456789
+
+3 rodar o servidor laravel atravez do comando php artisan server 
+
+4 acessar a ulr localhost:8000
+
+5 logar na aplicação
